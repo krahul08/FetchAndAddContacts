@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchAndAddContacts</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
